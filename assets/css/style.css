@@ -490,16 +490,16 @@ section {
 
 .hero h1 {
   margin: 0;
-  font-size: 67px;
-  font-weight: 700;
+  font-size: 70px;
+  font-weight: 400;
   color: #FFFFFF;
   font-family: Grumpy;
 }
 
 .hero h1 span {
   margin: 0;
-  font-size: 67px;
-  font-weight: 700;
+  font-size: 70px;
+  font-weight: 400;
   color: #FFE400;
   font-family: Grumpy;
 }
