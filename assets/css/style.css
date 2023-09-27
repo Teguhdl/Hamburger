@@ -922,7 +922,7 @@ section {
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 0px  #2db6fa;
 }
 
 .services .service-box.blue .icon {
